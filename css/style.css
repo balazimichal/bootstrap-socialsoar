@@ -38,3 +38,7 @@ body {
 #share-section {
   color: #222;
 }
+
+.copyright {
+  line-height: 30px;
+}
