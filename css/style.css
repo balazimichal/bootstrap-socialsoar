@@ -34,3 +34,7 @@ body {
 .card-form {
   opacity: 0.9;
 }
+
+#share-section {
+  color: #222;
+}
