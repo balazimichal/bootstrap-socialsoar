@@ -2,7 +2,7 @@
 
 SocialSore is a social network claiming to getting paid for creating social profiles. This one page site was build with bootstrap CSS framework. It is one page responsive website comprized of mobile navigation, slider section with login form and contact form.
 
-You can preview this app on surge: http://socialstore.surge.sh/
+You can preview this app on surge: https://socialsore.surge.sh/
 
 ## Features
 
